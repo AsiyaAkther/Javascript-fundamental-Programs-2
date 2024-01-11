@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(41, 32, 32);
+    color: white;
+    padding: 30px 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 50px;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+}
